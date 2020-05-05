@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-c32fb": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-c32fb"
+        ]
+      }
+    }
+  }
+}
